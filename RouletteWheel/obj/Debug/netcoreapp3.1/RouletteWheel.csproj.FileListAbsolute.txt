@@ -1,0 +1,13 @@
+C:\Users\offie\MSSA2021\ISTA322\Exercises\RouletteWheel\bin\Debug\netcoreapp3.1\RouletteWheel.exe
+C:\Users\offie\MSSA2021\ISTA322\Exercises\RouletteWheel\bin\Debug\netcoreapp3.1\RouletteWheel.deps.json
+C:\Users\offie\MSSA2021\ISTA322\Exercises\RouletteWheel\bin\Debug\netcoreapp3.1\RouletteWheel.runtimeconfig.json
+C:\Users\offie\MSSA2021\ISTA322\Exercises\RouletteWheel\bin\Debug\netcoreapp3.1\RouletteWheel.runtimeconfig.dev.json
+C:\Users\offie\MSSA2021\ISTA322\Exercises\RouletteWheel\bin\Debug\netcoreapp3.1\RouletteWheel.dll
+C:\Users\offie\MSSA2021\ISTA322\Exercises\RouletteWheel\bin\Debug\netcoreapp3.1\RouletteWheel.pdb
+C:\Users\offie\MSSA2021\ISTA322\Exercises\RouletteWheel\obj\Debug\netcoreapp3.1\RouletteWheel.csprojAssemblyReference.cache
+C:\Users\offie\MSSA2021\ISTA322\Exercises\RouletteWheel\obj\Debug\netcoreapp3.1\RouletteWheel.AssemblyInfoInputs.cache
+C:\Users\offie\MSSA2021\ISTA322\Exercises\RouletteWheel\obj\Debug\netcoreapp3.1\RouletteWheel.AssemblyInfo.cs
+C:\Users\offie\MSSA2021\ISTA322\Exercises\RouletteWheel\obj\Debug\netcoreapp3.1\RouletteWheel.csproj.CoreCompileInputs.cache
+C:\Users\offie\MSSA2021\ISTA322\Exercises\RouletteWheel\obj\Debug\netcoreapp3.1\RouletteWheel.dll
+C:\Users\offie\MSSA2021\ISTA322\Exercises\RouletteWheel\obj\Debug\netcoreapp3.1\RouletteWheel.pdb
+C:\Users\offie\MSSA2021\ISTA322\Exercises\RouletteWheel\obj\Debug\netcoreapp3.1\RouletteWheel.genruntimeconfig.cache
